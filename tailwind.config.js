@@ -3,11 +3,11 @@ module.exports = {
   theme: {
     extend: {
 		colors: {
-			primary: '#EE9789'
+			primary: '#FFA500'
 		}
 	},
 	fontFamily: {
-		sans: ['Montserrat', 'sans-serif'],
+		sans: ['Source Sans Pro', 'sans-serif'],
 	}
   },
   plugins: [],
